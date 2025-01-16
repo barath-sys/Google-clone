@@ -1,0 +1,23 @@
+#clone-img{
+    display:block;
+    width:250px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 170px;
+    padding-bottom:7px;
+}
+button{
+    padding:7px;
+}
+input{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    padding:4px;
+    width:350px;
+}
+#main-box{
+    display:block;
+    text-align:center;
+    padding-top:20px;
+}
